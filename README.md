@@ -4,3 +4,4 @@ All my notebooks dan assigments from the IBM Machine Learning Professional Certi
 
 
 02. https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
+04. https://www.kaggle.com/datasets/brunoroliveira/forty-soybean-cultivars-from-subsequent-harvests
